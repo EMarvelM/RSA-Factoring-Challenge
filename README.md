@@ -17,20 +17,20 @@ The primary objective of this challenge is to factorize given natural numbers in
 ## Task
 
 ### Task 0: Factorize All the Things!
-    - Factorize natural numbers into two smaller numbers.
-    - Numbers are provided in a file, with one number per line.
-    - All numbers are valid natural numbers greater than 1.
-    - No empty lines or extraneous spaces are present in the file.
-    - The output format should be: "n = p * q," where p and q do not have to be prime numbers.
-    - The order in which you work on the numbers is flexible.
-    - Your program should run independently without external dependencies.
-    - The program must complete factorization within a strict time limit of 5 seconds.
+    Factorize natural numbers into two smaller numbers.
+    Numbers are provided in a file, with one number per line.
+    All numbers are valid natural numbers greater than 1.
+    No empty lines or extraneous spaces are present in the file.
+    The output format should be: "n = p * q," where p and q do not have to be prime numbers.
+    The order in which you work on the numbers is flexible.
+    Your program should run independently without external dependencies.
+    The program must complete factorization within a strict time limit of 5 seconds.
 
 ### Task 1: RSA Factoring Challenge
-    - An extension of Task 0 with more stringent conditions.
-    - The prime factors p and q must always be prime numbers.
-    - Each file contains only one number to factorize.
-    - Your challenge is to find the prime factors of this number within the same 5-second time limit.
+    An extension of Task 0 with more stringent conditions.
+    The prime factors p and q must always be prime numbers.
+    Each file contains only one number to factorize.
+    Your challenge is to find the prime factors of this number within the same 5-second time limit.
 
 This challenge is a classic problem in cryptography, reflecting the significance of efficient prime factorization in the RSA encryption algorithm.
 
@@ -48,6 +48,6 @@ This code serves as a basic example, and for factorizing large RSA numbers, you 
 
 To use the provided Python script, follow these steps:
 
-1. Ensure you have Python installed on your system.
+    1. Ensure you have Python installed on your system.
 
-2. Run the script using the command:
+    2. Run the script using the command:
